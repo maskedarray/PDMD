@@ -1,0 +1,16 @@
+
+
+ ## Download the lattest code
+ - git clone https://github.com/EnergyInformatics/EV-with-PV
+
+ ## Change working directory 
+ - cd EV-with-PV/
+ 
+ ##if there is untracked files
+ - git add *
+ 
+ ## commit to local server
+ - git commit -am "Your commit message"
+ 
+ ## Push to the server
+ - git push
